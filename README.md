@@ -1,4 +1,9 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Forked template from: [LazyVim](https://github.com/LazyVim/LazyVim).
+
+Applied changes:
+- Gruvbox Theme 
+- PDF LaTeX Compilation Keymap
+- Zathura PDF open Keymap
+- Spelling files added
